@@ -1,4 +1,6 @@
 # FS22_Holmakra SAVE
+!!! POKIAL TU NIEJE .ZIP FILE TAK HRAJEM ALEBO SOM NEAPLOADOL SAVE  !!!
+
 Rýchly tutorial ako save uploadnut
 
 #1  stiahneš "BOB_MP_SAVE.zip"
