@@ -1,5 +1,6 @@
 # FS22_Holmakra SAVE
 !!! POKIAL TU NIEJE .ZIP FILE TAK HRAJEM ALEBO SOM NEAPLOADOL SAVE  !!!
+
 !!! UPLOADUJEM OKOLO  00:00 až 01:00 hod  !!!
 
 Rýchly tutorial ako save uploadnut
